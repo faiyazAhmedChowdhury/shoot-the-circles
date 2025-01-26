@@ -61,11 +61,15 @@
   <h3>3️⃣ Run the Game</h3>
     <pre><code>python shoot-the-circles.py</code></pre>
 
-  <h2>🖼️ Screenshots</h2>
-    <p><img width="699" alt="Screenshot 2025-01-25 at 11 54 15 PM" src="https://github.com/user-attachments/assets/4a4a9f37-8918-4924-a657-4201c7d858ea" /><img width="738" alt="Screenshot 2025-01-25 at 11 53 58 PM" src="https://github.com/user-attachments/assets/1d514d36-4356-4629-85a2-04d981959d54" />
-<img width="739" alt="Screenshot 2025-01-25 at 11 55 11 PM" src="https://github.com/user-attachments/assets/0fb59535-796b-4e2c-9599-49d719e327f2" />
+  <h2>🖼️ Screenshots and videos</h2>
+    <p>
+<img width="600" alt="Screenshot 2025-01-25 at 11 55 11 PM" src="https://github.com/user-attachments/assets/0fb59535-796b-4e2c-9599-49d719e327f2" />
 
 </p>
+
+https://github.com/user-attachments/assets/1208a977-c6fe-4d79-ac43-6f6d11da1833
+
+
 
   <h2>💡 Algorithm Breakdown</h2>
     <h3>1️⃣ Midpoint Line Algorithm</h3>
